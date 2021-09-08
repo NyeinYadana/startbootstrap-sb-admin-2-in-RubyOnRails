@@ -8,6 +8,8 @@ In this project I add the [startbootstrap-sb-admin-2](https://startbootstrap.com
 
 ## Preview
 
+![alt text](https://github.com/NyeinYadana/startbootstrap-sb-admin-2-in-RubyOnRails/blob/main/preview.png?raw=true)
+
 ## Status
 [Dependencies_Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
 
